@@ -14,7 +14,7 @@ cd CPOP-algorithm-maven
 idea .
 ```
 
-## Usuage
+## Used
 - JAVA
 - Jakarta Project
 - Eclipse Temurin™ 11 LTS
